@@ -39,6 +39,23 @@ springboot-reactjs-fullstack-project/
 │   ├── pom.xml                       # Maven configuration
 └── README.md                        # This file
 ```
+#### Coordinator Details
+
+<b>Coordinated by | <b> Kaushal Kishor
+:--|:--|
+<b> Organization Name| <b> Niit LTD.
+<b> College | <b> Dr. A. P. J. Abdul Kalam Technical University, Lucknow
+<b> Email id|     <b> kaushalkk.iimt@gmail.com
+<b> Department | Information Technology
+
+#### Developer List
+
+SrNo | Name | Faculty or Student | Department| Institute | Email id | Github id
+:--|:--|:--|:--|:--|:--|:--|
+1 | <> | Student | Computer Science |<> College of Engineering, Greater Noida | <> | <>
+2 | <> | Student | Computer Science |<> College of Engineering, Greater Noida | <> | <>
+
+
 
 ## Technology Stack Breakdown
 
